@@ -9,9 +9,9 @@
 * Beksultan Rakhmanov COM19-A 
 
 ## How to play?
-Run the program
-left mouse button tic
-tac toe right mouse button
+* Run the program
+* left mouse button tic
+* tac toe right mouse button
 ## Screenshots of Web-Application
 
 ![alt text](https://github.com/qbeksultan/Tictactoe2/blob/main/screenshots/Снимок.PNG?raw=true)
